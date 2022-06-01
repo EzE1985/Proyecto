@@ -1,0 +1,13 @@
+header {
+    background-color: rgb(216, 187, 42);
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(69, 15, 186);
+  }
+body h2{
+    text-align: center;
+}
+body {
+  background-color: rgb(238, 156, 225);
+}
